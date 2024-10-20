@@ -1,5 +1,5 @@
 program helloWorld
 implicit none
-print *, 'Hello World!'
+print *, 'BON DIA!'
 
 end program
